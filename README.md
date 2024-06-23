@@ -13,6 +13,7 @@ Step 5: After importing database, Type "http://localhost/Cake%20Shop/index.php" 
 Step 6: To add new products to the project, Type "http://localhost/Cake%20Shop/admin/index.php" in the search bar. admin login credentials are: username: admin, password: 123. <br/>
 
 Sample Output: <br/>
-![Cake Shop Index](https://github.com/w4lk3r07/Online-Cake-Shop/assets/90297892/f1fe2ff2-faa0-4094-a410-2cafeea8c991)
+![index](https://github.com/w4lk3r07/Online-Cake-Shop/assets/90297892/6d85c25f-0b23-46e2-a006-5faab8817edc)
 
-Technologies used are: HTML5, CSS, Bootstrap, PHP, XAMPP, VS Code, MySQL.
+
+Technologies used: HTML5, CSS, Bootstrap, PHP, XAMPP, VS Code, MySQL.
